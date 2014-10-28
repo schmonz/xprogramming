@@ -7,3 +7,14 @@ only one you'll want to call that.
 
 This is the front page. Maybe you want to read about [[what's going
 on here|articles/ikiwiki-spike]].
+
+# "Row 1" (layout pending)
+
+## [[Kate]]
+
+[[!inline
+show=1
+pages="kate/* and !kate/*/*"
+archive=yes
+feeds=no
+]]
