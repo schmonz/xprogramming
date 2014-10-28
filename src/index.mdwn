@@ -10,6 +10,15 @@ on here|articles/ikiwiki-spike]].
 
 # "Row 1" (layout pending)
 
+## [[Beyond]]
+
+[[!inline
+show=1
+pages="beyond/* and !beyond/*/*"
+archive=yes
+feeds=no
+]]
+
 ## [[Kate]]
 
 [[!inline

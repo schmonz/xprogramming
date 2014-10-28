@@ -1,0 +1,7 @@
+[[!meta title="Beyond Articles"]]
+
+[[!inline
+feeds=yes
+pages="beyond/* and !beyond/*/*"
+archive=yes
+]]
