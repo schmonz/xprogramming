@@ -40,6 +40,7 @@ rcs: ''
 # plugins to add to the default configuration
 add_plugins:
 - template
+- shortcut
 # plugins to disable
 disable_plugins: []
 # additional directory to search for template files
