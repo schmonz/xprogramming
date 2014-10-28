@@ -1,0 +1,9 @@
+[[!meta title="Kate Oneal"]]
+
+[[!inline
+feeds=yes
+pages="kate/* and !kate/*/*"
+archive=yes
+]]
+
+[[!iki ikiwiki/directive/img desc="More options for this listing"]]
