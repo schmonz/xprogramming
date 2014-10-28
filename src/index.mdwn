@@ -27,3 +27,14 @@ pages="kate/* and !kate/*/*"
 archive=yes
 feeds=no
 ]]
+
+## [[Classic]]
+
+XXX not randomly selected
+
+[[!inline
+show=1
+pages="classic/* and !classic/*/*"
+archive=yes
+feeds=no
+]]

@@ -1,0 +1,6 @@
+[[!meta title="Hey, Maybe Write Tests First"]]
+
+Would you consider the possibility that the bottleneck in your
+development process is the precision, accuracy, and thoroughness
+of your thinking? If so, would you be interested in easing that
+bottleneck? What if it involved writing a little code? Okay, cool.

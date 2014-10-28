@@ -1,0 +1,5 @@
+[[!meta title="Oldie But Goodie"]]
+
+Once upon a time, people developed software by leaving themselves
+a bunch of hard problems for later. It was painful for all involved,
+but nobody had any better ideas.

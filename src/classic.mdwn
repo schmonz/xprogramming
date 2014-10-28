@@ -1,0 +1,7 @@
+[[!meta title="Classic Articles"]]
+
+[[!inline
+feeds=yes
+pages="classic/* and !classic/*/*"
+archive=yes
+]]
