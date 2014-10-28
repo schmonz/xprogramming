@@ -41,6 +41,7 @@ rcs: ''
 add_plugins:
 - template
 - shortcut
+- img
 # plugins to disable
 disable_plugins: []
 # additional directory to search for template files
