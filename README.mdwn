@@ -1,0 +1,32 @@
+# Contents
+
+This is an attempt to meet the desiderata described by Ron Jeffries
+at [xprogramming.com](http://xprogramming.com/articles/xprognew-pivot/),
+using [ikiwiki](http://ikiwiki.info/). It contains:
+
+- A `src` directory for articles, images, metadata, and other input
+- An `html` directory for statically generated content (do not edit directly)
+- A `conf` directory for the config file governing ikiwiki's behavior
+- Git history to illustrate the steps by which I grew the site
+
+# Discontents
+
+- To browse the generated site, point a webserver at the `html` directory
+- To repeat my results, you need ikiwiki on your system. To get it,
+  I suggest using a package manager that keeps a reasonably up-to-date
+  ikiwiki. I can vouch for [pkgsrc](http://www.pkgsrc.org/) doing
+  so, because I'm the one who does the maintenance work. :-)
+- To use ikiwiki normally, you wouldn't mimic this filesystem structure.
+
+# This is a demo
+
+To show my changes along with their effects, I checked just about
+everything imaginable into Git. This is not how you'd use ikiwiki
+for a real site.
+
+# For a real site...
+
+- You wouldn't check `html` into Git
+- You'd create a central repository based on what's in `src` right now
+- You'd clone the central repo onto your laptop
+- You'd work locally, commit when you want, and push to publish
