@@ -1,0 +1,10 @@
+[[!meta title="General Articles"]]
+
+[[!inline
+show=5
+feeds=yes
+pages="articles/* and !articles/*/*"
+archive=yes
+]]
+
+[[Next|articles 2]]

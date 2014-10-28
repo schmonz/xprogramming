@@ -38,3 +38,16 @@ pages="classic/* and !classic/*/*"
 archive=yes
 feeds=no
 ]]
+
+-----
+
+# "Row 2"
+
+## [[General|articles]]
+
+[[!inline
+show=5
+pages="articles/* and !articles/*/*"
+archive=yes
+feeds=no
+]]
