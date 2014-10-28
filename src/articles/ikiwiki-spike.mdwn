@@ -1,0 +1,63 @@
+[[!meta title="Ikiwiki Spike"]]
+
+[[!meta date="2014/10/29"]]
+
+From having read <http://xprogramming.com/articles/xprognew-pivot/>,
+here's what [Amitai](http://www.schmonz.com/) understands.
+
+## You want to...
+
+- Write and draw pictures
+- Self-publish them
+- Generate a static site with simple tools
+- Integrate XProgramming, new material, maybe your Tumblr
+- Organize these articles into something like WordPress's categories
+- Feel comfortable maintaining the site even if the tools go south
+
+## You wantn't to...
+
+- Maintain a database-backed dynamic CMS (such as WordPress)
+- Fiddle with an app stack (such as Ruby/Sinatra/Kramdown/etc.)
+- Deal with undocumented tools (such as Middleman)
+- Code it up (unless it looks like you have to)
+
+## More specific wants
+
+### Front page
+
+The site's front page shows two rows:
+
+- Row 1: most recent Beyond, most recent Kate, random Classic
+- Row 2: 5-6 most recent general articles
+
+### Categories
+
+That's because articles are classified into categories:
+
+- Kate
+- Beyond
+- Classic
+- general
+
+Each category needs its own index page. If it's long, split it up
+into multiple pages.
+
+### Articles
+
+Articles about generally Agile topics...
+
+- Ought to be classified into some category (maybe Beyond, maybe a new one)
+- Might be part of a sequence, might not
+
+For each article: 
+
+- Text and associated pictures go in their own folder
+    - For easy previewing in Sublime Text and Marked
+    - For easy publishing without worrying about name collisions
+- The folder's name becomes the URL "slug"
+- Slugs don't _have_ to be called `2014-10-11-whatever`
+- Articles don't _have_ to be called `index.mdwn`
+
+## Amitai's questions
+
+- Are your URLs structured like `/kate/foo`? (working offline right now)

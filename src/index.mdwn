@@ -1,0 +1,9 @@
+[[!meta title="Hi, Ron!"]]
+
+[[!template id=note text="""
+This source file _is_ called `index.mdwn`. But it's probably the
+only one you'll want to call that.
+"""]]
+
+This is the front page. Maybe you want to read about [[what's going
+on here|articles/ikiwiki-spike]].
