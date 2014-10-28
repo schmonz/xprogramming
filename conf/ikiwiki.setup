@@ -38,13 +38,14 @@ only_committed_changes: 0
 # rcs backend to use
 rcs: ''
 # plugins to add to the default configuration
-add_plugins: []
+add_plugins:
+- template
 # plugins to disable
 disable_plugins: []
 # additional directory to search for template files
-templatedir: /usr/.pkg-20140314/share/ikiwiki/templates
+templatedir: /usr/pkg/share/ikiwiki/templates
 # base wiki source location
-underlaydir: /usr/.pkg-20140314/share/ikiwiki/basewiki
+underlaydir: /usr/pkg/share/ikiwiki/basewiki
 # display verbose messages?
 verbose: 1
 # log to syslog?
